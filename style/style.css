@@ -181,15 +181,15 @@ main {
 
 @media only screen and (max-width: 499px) {
   .nav-container {
-    width: 90%;
+    width: 95%;
   }
   .nav-items li {
     margin: 0 8px;
   }
   .container {
-    width: 70%;
-    padding: 10%;
-    margin-bottom: 10%;
+    width: 85%;
+    padding: 5%;
+    margin-bottom: 5%;
   }
 
   .players,
